@@ -6,6 +6,7 @@
       <me />
       <about-me />
       <education />
+      <experience />
     </v-container>
   </div>
 </template>
