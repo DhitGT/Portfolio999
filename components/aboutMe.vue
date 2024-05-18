@@ -115,5 +115,15 @@
       neque dolorum harum molestias sequi ullam delectus! Provident aut
       perspiciatis saepe incidunt placeat nesciunt accusantium culpa quia.
     </div>
+    <div class="mx-auto flex items-center">
+      <v-btn
+        outlined
+        color="orange"
+        rounded
+        class="mx-auto mt-4 align-self-center"
+      >
+        Contact Me
+      </v-btn>
+    </div>
   </div>
 </template>

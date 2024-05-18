@@ -5,6 +5,7 @@
       <helloText> </helloText>
       <me />
       <about-me />
+      <education />
     </v-container>
   </div>
 </template>
