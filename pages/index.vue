@@ -7,6 +7,9 @@
       <about-me />
       <education />
       <experience />
+      <certificate />
+      <skills />
+      <projects />
     </v-container>
   </div>
 </template>

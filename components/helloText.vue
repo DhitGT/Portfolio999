@@ -1,7 +1,7 @@
 <template>
   <div
     class="flex flex-col items-center mt-20 justify-center"
-    style="z-index: 99"
+    style="z-index: 20"
   >
     <div class="flex items-center gap-2">
       <v-img src="">😋</v-img>
@@ -18,7 +18,7 @@
       >
       <span>Learning Experience</span>
     </div>
-    <div class="flex gap-4 mt-4 pt-2" style="z-index: 99">
+    <div class="flex gap-4 mt-4 pt-2" style="z-index: 20">
       <v-btn color="#feb901" class="backdrop-blur-xl" rounded outlined>
         <v-icon color="#feb901">mdi-download-outline</v-icon>
         <span class="ms-1 text-[#feb901]">Resume</span>

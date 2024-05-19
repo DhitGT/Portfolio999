@@ -43,7 +43,7 @@
         </div>
       </div>
       <div class="mx-auto" style="width: 25rem; position: relative;">
-        <div style="position: absolute; top: -60%;z-index: 0;  left: -30%; opacity: 0.8; width: 160%; height: 160%; background-image: url('harmonator.jpg'); background-size: cover; mix-blend-mode:lighten;"></div>
+        <div style="position: absolute; top: -80%;z-index: 0;  left: -85%; opacity: 0.3; width: 260%; height: 260%; background-image: url('harmonator.jpg'); background-size: cover; mix-blend-mode:lighten;"></div>
         <v-img src="me.png" style="position: relative;"></v-img>
       </div>
       <div
