@@ -72,6 +72,6 @@ export default {
     }
   },
 
-  //lkdjaksjdaksdtfhgfffghfhfhfhfhfgh
+  
 }
 </script>
