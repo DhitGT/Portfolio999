@@ -102,7 +102,7 @@
         </div>
       </div>
     </div>
-    <div class="bg-gray-900 mt-7 rounded-2xl pa-5">
+    <div class="bg-gray-900 mt-7 rounded-2xl pa-5 text-justify">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium,
       voluptas at voluptates ullam ducimus odit aperiam vitae incidunt maxime
       facilis autem veniam, qui et aspernatur perferendis quaerat facere esse

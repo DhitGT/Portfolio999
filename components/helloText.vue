@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col items-center mt-20 justify-center"
+    class="flex flex-col items-center mt-36 justify-center"
     style="z-index: 20"
   >
     <div class="flex items-center gap-2">

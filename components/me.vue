@@ -42,9 +42,22 @@
           <span class="text-black font-bold"> Tailwind</span>
         </div>
       </div>
-      <div class="mx-auto" style="width: 25rem; position: relative;">
-        <div style="position: absolute; top: -80%;z-index: 0;  left: -85%; opacity: 0.3; width: 260%; height: 260%; background-image: url('harmonator.jpg'); background-size: cover; mix-blend-mode:lighten;"></div>
-        <v-img src="me.png" style="position: relative;"></v-img>
+      <div class="mx-auto" style="width: 25rem; position: relative">
+        <div
+          style="
+            position: absolute;
+            top: -80%;
+            z-index: 0;
+            left: -85%;
+            opacity: 0.3;
+            width: 260%;
+            height: 260%;
+            background-image: url('harmonators.jpg');
+            background-size: cover;
+            mix-blend-mode: lighten;
+          "
+        ></div>
+        <v-img src="me.png" style="position: relative"></v-img>
       </div>
       <div
         class="gap-12 mt-auto mb-5 me-9 flex flex-col"
@@ -88,6 +101,5 @@
         </div>
       </div>
     </div>
-
   </div>
 </template>
