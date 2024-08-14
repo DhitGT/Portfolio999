@@ -66,9 +66,7 @@
         </div>
         <div class="flex text-gray-900 gap-2 items-center">
           <v-icon color="black"> mdi-map-marker </v-icon>
-          <span>
-            Lorem ipsum dolor sit, amet consectetur adipisicing amet asd.
-          </span>
+          <span> Lorem ipsum dolor sit, amet consectetur adipisicing. </span>
         </div>
       </div>
     </div>
